@@ -2,7 +2,7 @@
 create profile landing page sweep ai
 
 ## Project Setup
-This project uses the Laravel PHP framework. You will need to have Composer installed to manage the project dependencies. Run the following command to install the dependencies:
+This project uses the Laravel PHP framework. You will need to have [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) installed to manage the project dependencies. Run the following command to install the dependencies:
 
 ```bash
 composer install
@@ -20,7 +20,7 @@ The main directories in this Laravel project are:
 - `/vendor`: This directory contains your Composer dependencies.
 
 ## Running the Project
-To start the Laravel development server, run the following command:
+To start the Laravel development server, you will need to have [Artisan](https://laravel.com/docs/8.x/artisan) installed. Run the following command:
 
 ```bash
 php artisan serve
