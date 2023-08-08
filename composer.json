@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "actual_project_name",
+    "description": "A brief description of the project.",
     "type": "project",
     "require": {
         "php": "^7.3|^8.0",
